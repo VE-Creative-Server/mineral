@@ -1,7 +1,7 @@
 core.register_node("mineral:jade", {
     description="Jade",
     tiles={"mineral_jade.png"},
-    is_ground_content = true,
+    is_ground_content = false,
 	groups={cracky=3},
 })
 
