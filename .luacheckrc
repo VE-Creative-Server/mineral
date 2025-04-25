@@ -1,3 +1,5 @@
 read_globals = {
-	"core",
+  "core",
+  "stairsplus",
+  "technic_cnc",
 }
